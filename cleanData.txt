@@ -1,0 +1,200 @@
+180263
+The 7th Continent
+Co-operative Play,Hand Management,Modular Board,Storytelling
+Adventure,Card Game,Exploration,Horror,Science Fiction
+242302
+Space Base
+Card Drafting,Dice Rolling
+Dice,Science Fiction,Space Exploration
+250442
+Crypt
+Auction/Bidding,Press Your Luck,Set Collection
+Card Game,Dice,Renaissance
+174430
+Gloomhaven
+Action / Movement Programming,Co-operative Play,Grid Movement,Hand Management,Modular Board,Role Playing,Simultaneous Action Selection,Storytelling,Variable Player Powers
+Adventure,Exploration,Fantasy,Fighting,Miniatures
+168544
+De Stijl
+Area Control / Area Influence,Card Drafting,Tile Placement
+Abstract Strategy,Card Game,Print & Play,Puzzle
+154910
+Darklight: Memento Mori
+Action / Movement Programming,Action Point Allowance System,Card Drafting,Co-operative Play,Dice Rolling,Modular Board,Role Playing,Tile Placement
+Exploration,Fantasy,Fighting,Miniatures
+205896
+Rising Sun
+Area Control / Area Influence,Area Movement,Card Drafting,Set Collection,Simultaneous Action Selection,Take That,Variable Phase Order,Variable Player Powers
+Bluffing,Fantasy,Miniatures,Mythology,Negotiation,Wargame
+167791
+Terraforming Mars
+Card Drafting,Hand Management,Set Collection,Tile Placement,Variable Player Powers
+Economic,Environmental,Industry / Manufacturing,Science Fiction,Territory Building
+230802
+Azul
+Pattern Building,Set Collection,Tile Placement
+Abstract Strategy
+241245
+Get the MacGuffin
+Hand Management,Player Elimination
+Card Game,Deduction
+205637
+Arkham Horror: The Card Game
+Action Point Allowance System,Co-operative Play,Deck / Pool Building,Hand Management,Role Playing,Variable Player Powers
+Adventure,Card Game,Collectible Components,Fantasy,Horror,Novel-based
+162886
+Spirit Island
+Card Drafting,Co-operative Play,Hand Management,Modular Board,Simultaneous Action Selection,Variable Player Powers
+Age of Reason,Environmental,Fantasy,Fighting,Mythology,Renaissance,Territory Building
+169786
+Scythe
+Area Control / Area Influence,Grid Movement,Simultaneous Action Selection,Variable Player Powers
+Civilization,Economic,Fighting,Miniatures,Science Fiction,Territory Building
+220308
+Gaia Project
+Modular Board,Route/Network Building,Variable Player Powers
+Civilization,Economic,Science Fiction,Territory Building
+221194
+Dinosaur Island
+Action Point Allowance System,Dice Rolling,Set Collection,Tile Placement,Worker Placement
+Dice,Economic
+248065
+Zombicide: Invader
+Action Point Allowance System,Co-operative Play,Dice Rolling,Modular Board,Variable Player Powers
+Miniatures,Science Fiction,Zombies
+55690
+Kingdom Death: Monster
+Co-operative Play,Dice Rolling,Grid Movement,Role Playing,Storytelling
+Adventure,Fantasy,Horror,Mature / Adult,Miniatures,Mythology
+250821
+Battlestar Galactica: Starship Battles
+Action / Movement Programming,Dice Rolling,Simulation,Simultaneous Action Selection,Variable Player Powers
+Aviation / Flight,Bluffing,Movies / TV / Radio theme,Science Fiction
+238164
+The Faceless
+Co-operative Play,Hand Management,Trading,Variable Player Powers
+Adventure,Horror,Miniatures
+193738
+Great Western Trail
+Deck / Pool Building,Hand Management,Point to Point Movement
+American West
+246201
+Lincoln
+Area Control / Area Influence,Hand Management,Point to Point Movement
+American Civil War,Wargame
+163839
+Feudum
+Action / Movement Programming,Area Control / Area Influence,Hand Management,Simultaneous Action Selection
+Adventure,Economic,Fantasy,Medieval
+170771
+Sword & Sorcery
+Action Point Allowance System,Area Movement,Co-operative Play,Dice Rolling,Modular Board,Variable Player Powers
+Adventure,Dice,Fantasy,Fighting,Miniatures
+216132
+Clans of Caledonia
+Commodity Speculation,Modular Board,Route/Network Building,Variable Player Powers
+Economic
+215341
+Thunderstone Quest
+Deck / Pool Building
+Card Game,Fantasy
+233020
+Fireball Island: The Curse of Vul-Kar
+Action / Movement Programming,Action Point Allowance System,Area Movement,Pick-up and Deliver,Press Your Luck,Set Collection,Take That
+Action / Dexterity,Adventure,Travel
+120677
+Terra Mystica
+Area Control / Area Influence,Route/Network Building,Variable Phase Order,Variable Player Powers
+Civilization,Economic,Fantasy,Territory Building
+233078
+Twilight Imperium: Fourth Edition
+Area Control / Area Influence,Area Movement,Area-Impulse,Dice Rolling,Hex-and-Counter,Modular Board,Set Collection,Trading,Variable Phase Order,Variable Player Powers,Voting
+Civilization,Economic,Negotiation,Political,Science Fiction,Space Exploration,Wargame
+250458
+The Forbidden City
+Action / Movement Programming,Betting/Wagering,Deck / Pool Building,Hand Management,Set Collection,Worker Placement
+Civilization,Deduction,Medieval,Travel
+197376
+Charterstone
+Worker Placement
+City Building,Economic,Medieval
+199561
+Sagrada
+Dice Rolling,Pattern Building,Set Collection
+Dice,Puzzle
+193428
+Street Fighter: The Miniatures Game
+Campaign / Battle Card Driven,Deck / Pool Building,Dice Rolling,Hand Management,Partnerships,Variable Player Powers
+Card Game,Fighting,Miniatures,Video Game Theme
+96848
+Mage Knight Board Game
+Card Drafting,Co-operative Play,Deck / Pool Building,Dice Rolling,Grid Movement,Hand Management,Modular Board,Role Playing,Tile Placement,Variable Player Powers
+Adventure,Exploration,Fantasy,Fighting
+207243
+The City of Kings
+Action Point Allowance System,Co-operative Play,Modular Board,Role Playing,Storytelling,Variable Player Powers
+Adventure,Exploration,Fantasy,Fighting,Puzzle
+187645
+Star Wars: Rebellion
+Area Control / Area Influence,Area Movement,Dice Rolling,Hand Management,Partnerships,Variable Player Powers
+Fighting,Miniatures,Movies / TV / Radio theme,Science Fiction,Wargame
+182028
+Through the Ages: A New Story of Civilization
+Action Point Allowance System,Auction/Bidding,Card Drafting
+Card Game,Civilization,Economic
+84876
+The Castles of Burgundy
+Dice Rolling,Set Collection,Tile Placement,Variable Phase Order
+Dice,Medieval,Territory Building
+249381
+The Estates
+Area Control / Area Influence,Auction/Bidding
+City Building,Economic
+222542
+Otys
+Action / Movement Programming,Set Collection,Worker Placement
+Science Fiction
+124361
+Concordia
+Card Drafting,Deck / Pool Building,Hand Management,Point to Point Movement
+Ancient,Economic,Nautical
+245928
+Pax Emancipation
+Deck / Pool Building,Dice Rolling
+Age of Reason
+34635
+Stone Age
+Dice Rolling,Set Collection,Worker Placement
+Dice,Prehistoric
+185343
+Anachrony
+Action Point Allowance System,Card Drafting,Dice Rolling,Variable Player Powers,Worker Placement
+Economic,Science Fiction
+121921
+Robinson Crusoe: Adventures on the Cursed Island
+Action / Movement Programming,Co-operative Play,Deck / Pool Building,Dice Rolling,Storytelling,Tile Placement,Variable Player Powers,Worker Placement
+Adventure,Exploration,Fighting,Novel-based
+225885
+Unbroken
+Dice Rolling,Press Your Luck,Role Playing
+Adventure,Fantasy,Horror,Print & Play
+157354
+Five Tribes
+Area Control / Area Influence,Auction/Bidding,Card Drafting,Modular Board,Set Collection
+Animals,Arabian,Fantasy,Mythology
+146021
+Eldritch Horror
+Co-operative Play,Dice Rolling,Point to Point Movement,Variable Player Powers
+Adventure,Fantasy,Fighting,Horror,Novel-based
+170216
+Blood Rage
+Action Point Allowance System,Area Control / Area Influence,Area Movement,Card Drafting,Hand Management,Memory,Simultaneous Action Selection
+Fantasy,Fighting,Miniatures,Mythology
+205059
+Mansions of Madness: Second Edition
+Area Movement,Co-operative Play,Dice Rolling,Hand Management,Modular Board,Partnerships,Role Playing,Variable Player Powers
+Adventure,Exploration,Fantasy,Fighting,Horror,Miniatures,Murder/Mystery,Puzzle
+163068
+Trickerion: Legends of Illusion
+Action / Movement Programming,Action Point Allowance System,Simultaneous Action Selection,Tile Placement,Worker Placement
+none
